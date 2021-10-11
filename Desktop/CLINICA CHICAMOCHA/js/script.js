@@ -1,0 +1,1 @@
+document.write("Hola grupo de programacion Clinica Chicamocha")
