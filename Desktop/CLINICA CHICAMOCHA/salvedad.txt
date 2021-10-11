@@ -1,0 +1,2 @@
+Este archivo documenta que git en local no actualiza archivos que  aparentemente no hacen parte del proyecto pues no estan
+contenidos en la carpeta de la clinica
